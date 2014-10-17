@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spg:home|Door43 (spg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spg|d43-spg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spg/archive/master.zip|d43-spg.zip]]
+
+**Recent Changes**
+{{changes>ns = spg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spg|Ethnologue data]]
+
